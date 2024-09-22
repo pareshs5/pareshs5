@@ -1,0 +1,6 @@
+- 👋 Hi, I’m paresh
+- 👀 I’m interested in angular & .net core web api
+- 🌱 I’m currently learning in angular & .net core in c#
+- 💞️ I’m looking to collaborate on ✨angular & ✨.net core web api
+- 😄 My Fronted work with --> HTML, CSS, JAVASCRPIT
+- ⚡ Fun fact: I Love to play cricket and travling
